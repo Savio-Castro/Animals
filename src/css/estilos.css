@@ -140,7 +140,7 @@ body::before{
   }
 
   .personagens{
-    height: 400px; /* Defina a altura desejada para a seção */
+    height: 450px; /* Defina a altura desejada para a seção */
     overflow: auto; /* Adiciona a barra de rolagem caso o conteúdo ultrapasse a altura */
     background-color: rgba(51, 255, 0, 0.171);
 }
