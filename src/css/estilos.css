@@ -62,7 +62,7 @@ body::before{
     display: flex;
     flex-wrap: wrap;
     /*Envolver*/
-    gap: 30px;
+    gap: 15px;
     /*Espaçamento*/
     justify-content: center;
 }
