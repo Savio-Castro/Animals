@@ -145,6 +145,27 @@ body::before{
     background-color: rgba(51, 255, 0, 0.171);
 }
 
+/* Altera a cor da barra de rolagem */
+::-webkit-scrollbar {
+    width: 22px; /* Largura da barra de rolagem */
+  }
+  
+  /* Altera a cor do fundo da barra de rolagem */
+  ::-webkit-scrollbar-track {
+    background-color: #a9f08f;
+    border: solid  1px #8cbe5d;
+  }
+  
+  /* Altera a cor do botão (thumb) da barra de rolagem */
+  ::-webkit-scrollbar-thumb {
+    background-color: #2fa312;
+    /* box-shadow: 0px 0px 24px 5px rgb(230, 230, 211); */
+    border: solid #8beb32 1px;
+  }
+  
+  
+  
+
   
 
   
